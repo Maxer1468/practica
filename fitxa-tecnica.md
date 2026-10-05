@@ -9,6 +9,7 @@ Desplegar i configurar una màquina virtual amb Ubuntu Server aplicant directriu
 * Imatge ISO d'Ubuntu Server.
 * Terminal SSH i editor Visual Studio Code.
 
+
 ## Procediment
 1. Crear i arrencar la màquina virtual amb la instal·lació mínima d'Ubuntu Server.
 2. Configurar la xarxa local mitjançant l'arxiu de Netplan.
